@@ -46,13 +46,6 @@ This is a classic Snake game developed using Java. The objective of the game is 
 ## Game Screenshot
 ![Game Screenshot](https://static.vecteezy.com/system/resources/thumbnails/008/367/479/small/game-over-pixel-background-vector.jpg)
 
-
-## Contributing
-If you would like to contribute to the project, feel free to fork the repository and submit a pull request.
-
-## License
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
-
 ## Acknowledgments
 - Inspired by the classic Snake game.
 - Developed using Java Swing for the graphical user interface.
